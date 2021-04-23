@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Vol-Han/static/css/main.2041de2a.chunk.css",
+    "main.js": "/Vol-Han/static/js/main.94942f93.chunk.js",
+    "main.js.map": "/Vol-Han/static/js/main.94942f93.chunk.js.map",
+    "runtime-main.js": "/Vol-Han/static/js/runtime-main.4226a9f0.js",
+    "runtime-main.js.map": "/Vol-Han/static/js/runtime-main.4226a9f0.js.map",
+    "static/css/2.49ff15db.chunk.css": "/Vol-Han/static/css/2.49ff15db.chunk.css",
+    "static/js/2.6961fc6f.chunk.js": "/Vol-Han/static/js/2.6961fc6f.chunk.js",
+    "static/js/2.6961fc6f.chunk.js.map": "/Vol-Han/static/js/2.6961fc6f.chunk.js.map",
+    "index.html": "/Vol-Han/index.html",
+    "static/css/2.49ff15db.chunk.css.map": "/Vol-Han/static/css/2.49ff15db.chunk.css.map",
+    "static/css/main.2041de2a.chunk.css.map": "/Vol-Han/static/css/main.2041de2a.chunk.css.map",
+    "static/js/2.6961fc6f.chunk.js.LICENSE.txt": "/Vol-Han/static/js/2.6961fc6f.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Vol-Han/static/media/earth.10944c53.gif",
+    "static/media/github.22e65707.svg": "/Vol-Han/static/media/github.22e65707.svg",
+    "static/media/logo.ba8b21b0.png": "/Vol-Han/static/media/logo.ba8b21b0.png",
+    "static/media/my-photo.fb73fec9.png": "/Vol-Han/static/media/my-photo.fb73fec9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4226a9f0.js",
+    "static/css/2.49ff15db.chunk.css",
+    "static/js/2.6961fc6f.chunk.js",
+    "static/css/main.2041de2a.chunk.css",
+    "static/js/main.94942f93.chunk.js"
+  ]
+}

@@ -9,7 +9,7 @@ import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import Home from '../Pages/Home';
 import About from '../Pages/About';
 import Skills from '../Pages/Skills';
-import MyLogo from '../Images/logo.png';
+import logo from '../Images/logo.png';
 
 export default class Header extends React.Component {
     render() {
@@ -22,7 +22,7 @@ export default class Header extends React.Component {
                     <Container>
                         <Navbar.Brand href="/">
                             <img
-                                src={MyLogo}
+                                src={logo}
                                 height="40"
                                 width="40"
                                 alt="My logo"

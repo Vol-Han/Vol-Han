@@ -59,10 +59,10 @@ export default class About extends React.Component {
             <Container id="about" className="sectionAbout">
                 <Row>
                     <Col md="9">
-                        <h3 data-aos="fade-up" data-aos-duration="1000">Hello! My name is</h3> 
-                        <h2 data-aos="fade-up" data-aos-duration="1000">Volodymyr Hannibal.</h2>
-                        <h3 data-aos="fade-up" data-aos-duration="1000">I'm looking for a job Junior Front-end Developer.</h3>
-                        <div data-aos="fade-up" data-aos-duration="1000"> 
+                        <h3>Hello! My name is</h3> 
+                        <h2>Volodymyr Hannibal.</h2>
+                        <h3>I'm looking for a job Junior Front-end Developer.</h3>
+                        <div> 
                             <p>I started my adventure by creating websites in 2010 a hobby.</p>
                             <p>Since then, I've been working with individual clients as a freelancer-programmer
                                     of websites and online stores on CMS WordPress and OpenCart.</p> 
@@ -73,28 +73,21 @@ export default class About extends React.Component {
                         </div>    
                     </Col>  
                     <Col md="3">
-                        <Media 
-                            data-aos="zoom-in"
-                            data-aos-duration="1000">
-                                <img  
-                                    width= "100%"
-                                    height="100%"
-                                    className="myPhoto"
-                                    src={MyPhoto}
-                                    alt="it is i :)"
-                                />
+                        <Media>
+                            <img  
+                                width= "100%"
+                                height="100%"
+                                className="myPhoto"
+                                src={MyPhoto}
+                                alt="it is i :)"
+                            />
                         </Media>
                     </Col>
-                    <Col md="12" 
-                        className="colProjectExamples"
-                        data-aos="fade-up"
-                        data-aos-duration="1000"> 
+                    <Col md="12" className="colProjectExamples"> 
                         <div>
                             <h4>Project Examples made on the programming course in Academy "InfoShare"</h4>
                             <p>
                                 <Button 
-                                    data-aos="fade-up"
-                                    data-aos-duration="1200" 
                                     className="buttonProjectExamples" 
                                     variant="info" 
                                     onClick={this.showModalLandingPage} 
@@ -130,12 +123,12 @@ export default class About extends React.Component {
                                     </Modal.Footer>
                                 </Modal>
 
-                                <Button data-aos="fade-up"
-                                        data-aos-duration="1200" 
-                                        className="buttonProjectExamples" 
-                                        variant="info" 
-                                        onClick={this.showModalApplication} 
-                                        size="lg">Application
+                                <Button 
+                                    className="buttonProjectExamples" 
+                                    variant="info" 
+                                    onClick={this.showModalApplication} 
+                                    size="lg">
+                                        Application
                                 </Button>
                                         
                                 <Modal show={this.state.isModalOpenApplication} onHide={this.closeModalApplication}>
@@ -167,11 +160,9 @@ export default class About extends React.Component {
                                     </Modal.Footer>
                                 </Modal>
                             </p>
-                            <h4 data-aos="fade-up"data-aos-duration="1000">Project Examples on CMS</h4>
+                            <h4>Project Examples on CMS</h4>
                             <p>
-                                <Button 
-                                    data-aos="fade-up"
-                                    data-aos-duration="1500" 
+                                <Button
                                     className="buttonProjectExamples" 
                                     variant="info" 
                                     onClick={this.showModalWordPress} 
@@ -194,13 +185,12 @@ export default class About extends React.Component {
                                     </Modal.Footer>
                                 </Modal>
 
-                                <Button 
-                                    data-aos="fade-up"
-                                    data-aos-duration="1500" 
+                                <Button  
                                     className="buttonProjectExamples" 
                                     variant="info" 
                                     onClick={this.showModalOpenCart} 
-                                    size="lg">OpenCart
+                                    size="lg">
+                                        OpenCart
                                 </Button>
                                     
                                 <Modal show={this.state.isModalOpenOpenCart} onHide={this.closeModalOpenCart}>

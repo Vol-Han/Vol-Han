@@ -7,11 +7,8 @@ export default class Home extends React.Component {
             <>
             <Container id="home">
                 <div className="sectionHomeText"> 
-                    <h1 
-                        className="homeText" 
-                        data-aos="fade-up"
-                        data-aos-duration="1000"
-                        data-aos-easing="ease-in-sine">Web development for benefiting World.
+                    <h1 className="homeText">
+                        Web development for benefiting World.
                     </h1>
                 </div>
             </Container>

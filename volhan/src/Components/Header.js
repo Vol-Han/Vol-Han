@@ -5,20 +5,22 @@ import {
     Container,
     Button
 } from 'react-bootstrap';
-import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import { BrowserRouter, Switch, Route, NavLink } from "react-router-dom";
 import Home from '../Pages/Home';
 import About from '../Pages/About';
 import Skills from '../Pages/Skills';
 import logo from '../Images/logo.png';
 
 export default class Header extends React.Component {
+    
     render() {
         return (
             <>
+            <BrowserRouter>
                 <Navbar className="navbar" 
                         collapseOnSelect expand="lg" 
                         data-aos="fade-down"
-                        data-aos-duration="1000"> 
+                        data-aos-duration="1000">
                     <Container>
                         <Navbar.Brand href="/">
                             <img
@@ -31,9 +33,9 @@ export default class Header extends React.Component {
                         <Navbar.Toggle aria-controls="responsive-navbar-nav"/> 
                         <Navbar.Collapse id="responsive-navbar-nav">
                             <Nav className="mr-auto">
-                                <Nav.Link href="/">Home</Nav.Link>
-                                <Nav.Link href="/about">About</Nav.Link>
-                                <Nav.Link href="/skills">Skills</Nav.Link>
+                                <Nav.Link exact as={NavLink} eventKey="home" to="/">Home</Nav.Link>
+                                <Nav.Link exact as={NavLink} eventKey="about" to="/about">About</Nav.Link>
+                                <Nav.Link exact as={NavLink} eventKey="skills" to="/skills">Skills</Nav.Link>
                             </Nav>
                             <Navbar.Collapse className="justify-content-end">
                                 <Navbar.Text>
@@ -70,13 +72,12 @@ export default class Header extends React.Component {
                         </Navbar.Collapse>
                     </Container>
                 </Navbar>
-                <Router>
-                    <Switch>
-                        <Route exact path="/" component={Home} />
-                        <Route exact path="/about" component={About} />
-                        <Route exact path="/skills" component={Skills} />
-                    </Switch>
-                </Router>
+                <Switch>
+                    <Route exact path="/" component={Home} />
+                    <Route exact path="/about" component={About} />
+                    <Route exact path="/skills" component={Skills} />
+                </Switch>
+            </BrowserRouter>
             </>
         )
     }

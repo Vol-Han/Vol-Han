@@ -22,7 +22,7 @@ export default class Header extends React.Component {
                         data-aos="fade-down"
                         data-aos-duration="1000">
                     <Container>
-                        <Navbar.Brand href="/">
+                        <Navbar.Brand href="/home">
                             <img
                                 src={logo}
                                 height="40"
@@ -33,7 +33,7 @@ export default class Header extends React.Component {
                         <Navbar.Toggle aria-controls="responsive-navbar-nav"/> 
                         <Navbar.Collapse id="responsive-navbar-nav">
                             <Nav className="mr-auto">
-                                <Nav.Link exact as={NavLink} eventKey="home" to="/">Home</Nav.Link>
+                                <Nav.Link exact as={NavLink} eventKey="home" to="/home">Home</Nav.Link>
                                 <Nav.Link exact as={NavLink} eventKey="about" to="/about">About</Nav.Link>
                                 <Nav.Link exact as={NavLink} eventKey="skills" to="/skills">Skills</Nav.Link>
                             </Nav>
@@ -73,7 +73,7 @@ export default class Header extends React.Component {
                     </Container>
                 </Navbar>
                 <Switch>
-                    <Route exact path="/" component={Home} />
+                    <Route exact path="/home" component={Home} />
                     <Route exact path="/about" component={About} />
                     <Route exact path="/skills" component={Skills} />
                 </Switch>

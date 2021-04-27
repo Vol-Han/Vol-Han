@@ -30,7 +30,7 @@ function App() {
             </Navbar.Brand>
             <Navbar.Toggle aria-controls="responsive-navbar-nav"/> 
             <Navbar.Collapse id="responsive-navbar-nav">
-                <Nav className="mr-auto">
+                <Nav className="mr-auto" defaultActiveKey="home">
                   <Nav.Link exact as={NavLink} eventKey="home" to="/home">Home</Nav.Link>
                   <Nav.Link exact as={NavLink} eventKey="about" to="/about">About</Nav.Link>
                   <Nav.Link exact as={NavLink} eventKey="skills" to="/skills">Skills</Nav.Link>

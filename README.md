@@ -1,4 +1,4 @@
-Hi 👋👋👋
+Hi 👋
 
 I'm looking for a job Junior Front-end Developer.
 

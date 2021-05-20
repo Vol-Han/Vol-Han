@@ -1,6 +1,6 @@
 Hi 👋
 
-I'm looking for a job Junior Front-end Developer.
+I'm looking for a job Junior Front-end Developer / Web developer with WordPress.
 
 🤔
 

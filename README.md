@@ -6,7 +6,7 @@ Hi there 👋
 
 ![Vol-Han Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Vol-Han&theme=red-green)
 ![Vol-Han Repository's Stats](https://github-readme-stats.vercel.app/api?username=Vol-Han&show_icons=true)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/Vol-Han/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Vol-Han)](https://github.com/Vol-Han/github-readme-stats)
 
 <!--
 **Vol-Han/Vol-Han** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

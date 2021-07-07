@@ -2,7 +2,7 @@ Hi there 👋
 
 I'm looking for a job Junior Front-end Developer / Web developer with WordPress.
 
-� You can help me �
+✨ You can help me � ✨ 
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Vol-Han&theme=red-green)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Vol-Han&show_icons=true)

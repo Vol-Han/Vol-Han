@@ -4,7 +4,7 @@ Hi there 👋
 
 ✨ You can help me? ✨ 
 
-![Vol-Han Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Vol-Han&theme=red-green)
+![Vol-Han Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Vol-Han&theme=gray-green)
 ![Vol-Han Repository's Stats](https://github-readme-stats.vercel.app/api?username=Vol-Han&show_icons=true)
 
 <!--

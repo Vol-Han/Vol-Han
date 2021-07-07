@@ -2,22 +2,11 @@ Hi there 👋
 
 🤔 I'm looking for a job Junior Front-end Developer / Web developer with WordPress.
 
-✨ You can help me? ✨ 
+:sos: Can You Help Me? :sos:
+
+Write me heer: <a href="mailto:v.m.hannibal@gmail.com" title="Write me">:mailbox_with_no_mail:</a>
 
 ![Vol-Han Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Vol-Han&theme=gray-green)
 ![Vol-Han Repository's Stats](https://github-readme-stats.vercel.app/api?username=Vol-Han&show_icons=true)
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
-<!--
-**Vol-Han/Vol-Han** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

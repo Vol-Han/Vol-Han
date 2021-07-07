@@ -10,6 +10,6 @@
 
 ![Vol-Han Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Vol-Han&theme=gray-green)
 ![Vol-Han Repository's Stats](https://github-readme-stats.vercel.app/api?username=Vol-Han&show_icons=true)
-### 😂 Here is a random joke :smirk:
-![Jokes Card](https://readme-jokes.vercel.app/api)
+<!-- ### 😂 Here is a random joke :smirk:
+![Jokes Card](https://readme-jokes.vercel.app/api) -->
 

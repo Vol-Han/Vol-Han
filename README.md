@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-## :eyes: I'm looking for a job Junior Front-end Developer / Web developer with WordPress. 🤔
+### :eyes: I'm looking for a job Junior Front-end Developer / Web developer with WordPress. 🤔
 
-## Can You Help Me :question: 
+### Can You Help Me :question: 
 
 ## Write me heer: <a href="mailto:v.m.hannibal@gmail.com" title="Write me">:mailbox_with_no_mail:</a>
 

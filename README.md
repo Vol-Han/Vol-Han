@@ -4,8 +4,8 @@ I'm looking for a job Junior Front-end Developer / Web developer with WordPress.
 
 🤔
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Vol-Han&show_icons=true)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Vol-Han&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Vol-Han&show_icons=true)
 
 <!--
 **Vol-Han/Vol-Han** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

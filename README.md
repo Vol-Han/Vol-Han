@@ -12,4 +12,5 @@
 ![Vol-Han Repository's Stats](https://github-readme-stats.vercel.app/api?username=Vol-Han&show_icons=true)
 <!-- ### 😂 Here is a random joke :smirk:
 ![Jokes Card](https://readme-jokes.vercel.app/api) -->
+![Profile View Counter](https://vol-han.github.io/resume/ghpvc/?username=Vol-Han)
 

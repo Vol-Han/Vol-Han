@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### :eyes: I'm looking for a job Junior Front-end Developer / Web developer with WordPress. 🤔
+### :eyes: I'm looking for a job Junior Front-end Developer with React. 🤔
 
 ### You have any requests, suggestions or questions :question: 
 

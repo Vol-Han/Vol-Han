@@ -4,7 +4,7 @@
 
 ### You have any requests, suggestions or questions :question: 
 
-### Message me here: <a href="mailto:v.m.hannibal@gmail.com" title="Write me">:mailbox_with_no_mail: My inbox is always open.</a>
+### Message to me here: <a href="mailto:v.m.hannibal@gmail.com" title="Write me">:mailbox_with_no_mail: My inbox is always open.</a>
 
 
 

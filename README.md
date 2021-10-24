@@ -6,7 +6,7 @@
 
 ### Message to me here: <a href="mailto:v.m.hannibal@gmail.com" title="Write me">:mailbox_with_no_mail: My inbox is always open.</a>
 
-## 💻 Tech Stack:
+<!-- ## 💻 Tech Stack:
 
 <img alt="html5" src="https://img.shields.io/badge/html-8C0000.svg?&style=for-the-badge&logo=html5&logoColor=fff&logoWidth=20" />&nbsp;
 <img alt="css3" src="https://img.shields.io/badge/css-8C0000.svg?&style=for-the-badge&logo=css3&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
@@ -21,7 +21,7 @@
 <img alt="github" src="https://img.shields.io/badge/github-8C0000.svg?&style=for-the-badge&logo=github&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
 <img alt="jira" src="https://img.shields.io/badge/jira-8C0000.svg?&style=for-the-badge&logo=jira&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp; 
 <img alt="photoshop" src="https://img.shields.io/badge/photoshop-8C0000.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
-<img alt="vs code" src="https://img.shields.io/badge/vs code-8C0000.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
+<img alt="vs code" src="https://img.shields.io/badge/vs code-8C0000.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp; -->
 
 ![Vol-Han Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Vol-Han&theme=gray-green)
 ![Vol-Han Repository's Stats](https://github-readme-stats.vercel.app/api?username=Vol-Han&show_icons=true)

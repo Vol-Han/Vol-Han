@@ -43,5 +43,5 @@
 <img alt="heroku" src="https://img.shields.io/badge/heroku-8C0000.svg?&style=for-the-badge&logo=heroku&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
 <img alt="photoshop" src="https://img.shields.io/badge/photoshop-8C0000.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
 <img alt="invision" src="https://img.shields.io/badge/invision-8C0000.svg?&style=for-the-badge&logo=invision&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
-<img alt="vs code" src="https://img.shields.io/badge/vs code-8C0000.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp; -->-->
+<img alt="vs code" src="https://img.shields.io/badge/vs code-8C0000.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp; -->
 

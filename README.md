@@ -6,7 +6,7 @@
 
 #### Message to me here: <a href="mailto:v.m.hannibal@gmail.com" title="Write me">:mailbox_with_no_mail: My inbox is always open.</a>
 ### Here's what I'm up to right now:
-#### :seedling: Learning: JavaScript/React/WordPress 
+#### :seedling: Learning: JavaScript / React / WordPress 
 #### :boom: Working on: refreshing my web dev skills
 #### :telescope: Exploring: open source software and contributions
 

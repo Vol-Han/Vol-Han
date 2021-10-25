@@ -18,6 +18,14 @@
 <img alt="html5" src="https://img.shields.io/badge/material.ui-454545.svg?&style=for-the-badge&logo=material-ui&logoColor=fff&logoWidth=20&labelColor=555" />&nbsp;
 <img alt="react" src="https://img.shields.io/badge/react-454545.svg?&style=for-the-badge&logo=react&logoColor=fff&logoWidth=20&labelColor=555" />&nbsp;
 
+<img alt="html5" src="https://img.shields.io/badge/html-555.svg?&style=for-the-badge&logo=html5&logoColor=fff&logoWidth=20&labelColor=e34c26" />&nbsp;
+<img alt="css3" src="https://img.shields.io/badge/css-555.svg?&style=for-the-badge&logo=css3&logoColor=fff&logoWidth=20&labelColor=264de4" />&nbsp;
+<img alt="javascript" src="https://img.shields.io/badge/javascript-555.svg?&style=for-the-badge&logo=javascript&logoColor=323330&logoWidth=20&labelColor=f0db4f" />&nbsp;
+<img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-555.svg?&style=for-the-badge&logo=bootstrap&logoColor=fff&logoWidth=20&labelColor=7952b3" />&nbsp;
+<img alt="html5" src="https://img.shields.io/badge/material ui-555.svg?&style=for-the-badge&logo=material-ui&logoColor=fff&logoWidth=20&labelColor=2191eb" />&nbsp;
+<img alt="react" src="https://img.shields.io/badge/react-555.svg?&style=for-the-badge&logo=react&logoColor=61dafb&logoWidth=20&labelColor=282c34" />&nbsp;
+<img alt="redux" src="https://img.shields.io/badge/redux-555.svg?&style=for-the-badge&logo=redux&logoColor=764abc&logoWidth=20&labelColor=ebedf0" />&nbsp;
+
 ## 🛠 Tools:
 
 <img alt="git" src="https://img.shields.io/badge/git-454545.svg?&style=for-the-badge&logo=git&logoColor=fff&logoWidth=20&labelColor=555" />&nbsp;

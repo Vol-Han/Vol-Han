@@ -1,6 +1,6 @@
 ## Hello everyone 👋
 
-### :eyes: I'm looking for a job Junior JavaScript Developer / Junior Front-end Developer with React / Front-end Developer with WordPress. 🤔
+### :eyes: I'm looking for a job Junior Software Engineer / Junior Front-end Developer with React / Wordpress Developer. 🤔
 
 ## Statistics:
 

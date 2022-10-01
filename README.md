@@ -1,6 +1,6 @@
 ## Hello everyone 👋
 
-### :eyes:  I'm looking for a job Front-end Developer with React / WordPress Developer.
+### :eyes:  I'm looking for a job WordPress Developer or Front-end Developer with React.
 
 ## Statistics:
 

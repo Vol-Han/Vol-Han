@@ -26,7 +26,5 @@
 <img alt="gimp" src="https://img.shields.io/badge/gimp-555.svg?&style=for-the-badge&logo=gimp&logoColor=fff&logoWidth=20&labelColor=0e2426" />&nbsp;
 
 ## CMS:
-https://img.shields.io/static/v1?label=<LABEL>WordPress<MESSAGE>#117ac9<COLOR>
-#117ac9
- WordPress
+WordPress &
 OpenCart

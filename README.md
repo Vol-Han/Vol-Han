@@ -24,3 +24,9 @@
 <img alt="jira" src="https://img.shields.io/badge/jira-555.svg?&style=for-the-badge&logo=jira&logoColor=2684ff&logoWidth=20&labelColor=ebedf0" />&nbsp; 
 <img alt="photoshop" src="https://img.shields.io/badge/photoshop-454545.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=2fa8fb&logoWidth=20&labelColor=001733" />&nbsp;
 <img alt="gimp" src="https://img.shields.io/badge/gimp-555.svg?&style=for-the-badge&logo=gimp&logoColor=fff&logoWidth=20&labelColor=0e2426" />&nbsp;
+
+## CMS:
+https://img.shields.io/static/v1?label=<LABEL>WordPress<MESSAGE>#117ac9<COLOR>
+#117ac9
+ WordPress
+OpenCart

@@ -1,4 +1,6 @@
-## Hello everyone 👋 I'm a self-taught person and a little more ;)
+## Hello everyone 👋
+
+### I'm a self-taught person and a little more ;)
 
 ### :eyes:  I'm looking for a job Web Developer / WordPress Developer or Front end Developer (React).
 

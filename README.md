@@ -1,8 +1,8 @@
-## Hello everyone 👋
+## 👋 Hello there! I'm a web wizard by day and an app aficionado by night. 🌟
 
-### I'm self-taught, doing WordPress development and much more :)
-### If you need websites, e-stores or apps, welcome. You are in the right place at the right time.
-### Build your innovative online presence today https://rulit.site
+### 💡 I'm self-taught, doing WordPress development and much more 😀
+### 🎨 If you need websites, e-stores or apps, welcome. You are in the right place at the right time. 💻
+### 🚀 Build your innovative online presence today https://rulit.site ✨
 
 
 ## Statistics:

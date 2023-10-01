@@ -1,6 +1,9 @@
 ## Hello everyone 👋
 
-### I'm a self-taught WordPress Developer and a little more ;)
+### I'm self-taught, doing WordPress development and much more :)
+### If you need websites, e-stores or apps, welcome. You are in the right place at the right time.
+### Build your innovative online presence today https://rulit.site
+
 
 ## Statistics:
 

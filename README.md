@@ -1,8 +1,8 @@
-## 👋 Hello there! I'm a web wizard by day and an app aficionado by night. 🌟
+## 👋 Hello! I'm a web wizard by day and night. 😀
 
-### 💡 I'm self-taught, doing WordPress development and much more 😀
-### 🎨 If you need websites, e-stores or apps, welcome. You are in the right place at the right time. 💻
-### 🚀 Build your innovative online presence today https://rulit.site ✨
+### 💡 Doing WordPress development with AI 🌟
+### 🚀 If you need professional websites or e-stores, welcome - you're in the right place at the right time. 💻
+### ✨ Build your innovative online presence today https://rulit.site ✨
 
 
 ## Statistics:
@@ -29,5 +29,5 @@
 <img alt="gimp" src="https://img.shields.io/badge/gimp-555.svg?&style=for-the-badge&logo=gimp&logoColor=fff&logoWidth=20&labelColor=0e2426" />&nbsp;
 
 ## CMS:
-WordPress &
+WordPress (Elementor Pro, DIVI, WooCommerce)
 OpenCart

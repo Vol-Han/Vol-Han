@@ -4,12 +4,6 @@
 ### 💡 AI-Powered WordPress 
 ### 🌟 Turnkey development with full support (WordPress • Elementor Pro • WooCommerce • AI Development)
 
-
-## Statistics:
-
-![Vol-Han Repository's Stats](https://github-readme-stats.vercel.app/api?username=Vol-Han&show_icons=true)
-![Vol-Han Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Vol-Han&theme=gray-green)
-
 ## Tech Stack:
 
 <img alt="html5" src="https://img.shields.io/badge/html-555.svg?&style=for-the-badge&logo=html5&logoColor=fff&logoWidth=20&labelColor=e34c26" />&nbsp;

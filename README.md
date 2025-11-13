@@ -1,8 +1,8 @@
 ## 👋 Hello! I'm a web wizard by day and night. 😀
 
-### 💡 Doing WordPress development with AI 🌟
-### 🚀 If you need professional websites or e-stores, welcome - you're in the right place at the right time. 💻
-### ✨ Build your innovative online presence today https://rulit.site ✨
+### ✨ Custom Web, AI & Video Solutions https://volhan.com
+### 💡 AI-Powered WordPress 
+### 🌟 Turnkey development with full support (WordPress • Elementor Pro • WooCommerce • AI Development)
 
 
 ## Statistics:
@@ -30,4 +30,3 @@
 
 ## CMS:
 WordPress (Elementor Pro, DIVI, WooCommerce)
-OpenCart
